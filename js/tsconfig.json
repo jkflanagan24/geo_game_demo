@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outFile": "app.js",
+        "allowJs": true,
+        "checkJs": true,
+        "declaration": true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "amd",
+        "target": "ES6"
+    },
+    "include": [
+        "./"
+    ],
+}
